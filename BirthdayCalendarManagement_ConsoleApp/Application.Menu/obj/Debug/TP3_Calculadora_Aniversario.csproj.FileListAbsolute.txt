@@ -1,0 +1,11 @@
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\TP3_Calculadora_Aniversario\bin\Debug\TP3_Calculadora_Aniversario.exe.config
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\TP3_Calculadora_Aniversario\bin\Debug\TP3_Calculadora_Aniversario.exe
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\TP3_Calculadora_Aniversario\bin\Debug\TP3_Calculadora_Aniversario.pdb
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\TP3_Calculadora_Aniversario\obj\Debug\TP3_Calculadora_Aniversario.csprojResolveAssemblyReference.cache
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\TP3_Calculadora_Aniversario\obj\Debug\TP3_Calculadora_Aniversario.csproj.CoreCompileInputs.cache
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\TP3_Calculadora_Aniversario\obj\Debug\TP3_Calculadora_Aniversario.exe
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\TP3_Calculadora_Aniversario\obj\Debug\TP3_Calculadora_Aniversario.pdb
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\TP3_Calculadora_Aniversario\bin\Debug\Aniversariantes.Classes.dll
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\TP3_Calculadora_Aniversario\bin\Debug\Aniversariantes.Classes.pdb
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\TP3_Calculadora_Aniversario\bin\Debug\Aniversariantes.Persistencia.dll
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\TP3_Calculadora_Aniversario\bin\Debug\Aniversariantes.Persistencia.pdb

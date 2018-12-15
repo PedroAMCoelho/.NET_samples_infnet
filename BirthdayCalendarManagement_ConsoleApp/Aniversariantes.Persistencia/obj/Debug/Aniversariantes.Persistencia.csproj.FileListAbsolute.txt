@@ -1,0 +1,16 @@
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\Aniversariantes.Persistencia\bin\Debug\Aniversariantes.Persistencia.dll
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\Aniversariantes.Persistencia\bin\Debug\Aniversariantes.Persistencia.pdb
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\Aniversariantes.Persistencia\bin\Debug\Aniversariantes.Classes.dll
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\Aniversariantes.Persistencia\bin\Debug\Aniversariantes.Classes.pdb
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\Aniversariantes.Persistencia\obj\Debug\Aniversariantes.Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\Aniversariantes.Persistencia\obj\Debug\Aniversariantes.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\Aniversariantes.Persistencia\obj\Debug\Aniversariantes.Persistencia.dll
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\Aniversariantes.Persistencia\obj\Debug\Aniversariantes.Persistencia.pdb
+C:\Users\ppedr\source\repos\Assessment_Fundamentos_CSharp\Aniversariantes.Persistencia\bin\Debug\Aniversariantes.Persistencia.dll
+C:\Users\ppedr\source\repos\Assessment_Fundamentos_CSharp\Aniversariantes.Persistencia\bin\Debug\Aniversariantes.Persistencia.pdb
+C:\Users\ppedr\source\repos\Assessment_Fundamentos_CSharp\Aniversariantes.Persistencia\bin\Debug\Aniversariantes.Classes.dll
+C:\Users\ppedr\source\repos\Assessment_Fundamentos_CSharp\Aniversariantes.Persistencia\bin\Debug\Aniversariantes.Classes.pdb
+C:\Users\ppedr\source\repos\Assessment_Fundamentos_CSharp\Aniversariantes.Persistencia\obj\Debug\Aniversariantes.Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\ppedr\source\repos\Assessment_Fundamentos_CSharp\Aniversariantes.Persistencia\obj\Debug\Aniversariantes.Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\ppedr\source\repos\Assessment_Fundamentos_CSharp\Aniversariantes.Persistencia\obj\Debug\Aniversariantes.Persistencia.dll
+C:\Users\ppedr\source\repos\Assessment_Fundamentos_CSharp\Aniversariantes.Persistencia\obj\Debug\Aniversariantes.Persistencia.pdb

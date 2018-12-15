@@ -1,0 +1,97 @@
+﻿@model IEnumerable<GerenciamentoAniversarios.Models.Pessoa>
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Agenda de Aniversários</h1>
+</div>
+
+<div class="btn-group-vertical">
+    <button style="border-color:white" type="button" class="btn">@Html.ActionLink("Cadastrar Pessoa", "IncluirPessoa", "Pessoa")</button> <!--(<String>, Metodo, Controller)-->
+    <button style="border-color:white" type="button" class="btn">@Html.ActionLink("Pesquisar Pessoa", "BuscarPessoa", "Pessoa")</button>
+    <button style="border-color:white" type="button" class="btn">@Html.ActionLink("Listar Pessoas", "ObterPessoas", "Pessoa")</button>
+</div>
+
+<div class="row">
+    <div style="margin-top:-110px" class="col-sm-12 col-md-6 col-md-offset-3">
+        <h4>Aniversariantes do dia</h4>
+
+        <table class="table">
+
+
+            @if (ViewBag.PessoasNiverHoje != null)
+            {
+                <tr>
+                    <th>Nome</th>
+                    <th>Sobrenome</th>
+                    <th>Data de Aniversário</th>
+                </tr>
+
+                foreach (var pessoa in ViewBag.PessoasNiverHoje)
+                {
+                    <tr>
+                        <td>@pessoa.Nome</td>
+                        <td>@pessoa.Sobrenome</td>
+                        <td>@pessoa.Aniversario</td>
+                    </tr>
+                }
+            }
+        </table>
+
+        <p style="font-size:15px; color:darkcyan">@ViewBag.SemNiver</p>
+    </div>
+</div>
+
+<h4>Próximos Aniversariantes do Ano:</h4>
+
+<table class="table">
+
+
+    @if (ViewBag.ProxNivers != null)
+    {
+        <tr>
+            <th>Nome</th>
+            <th>Sobrenome</th>
+            <th>Data de Aniversário</th>
+        </tr>
+
+        foreach (var pessoa in ViewBag.ProxNivers)
+        {
+            <tr>
+                <td>@pessoa.Nome</td>
+                <td>@pessoa.Sobrenome</td>
+                <td>@pessoa.Aniversario</td>
+            </tr>
+        }
+    }
+</table>
+
+<p style="font-size:15px; color:darkcyan">@ViewBag.SemContatos</p>
+
+<h4>Próximos Aniversariantes (ano que vem):</h4>
+
+<table class="table">
+
+
+    @if (ViewBag.ProxNiversAnoQueVem != null)
+    {
+        <tr>
+            <th>Nome</th>
+            <th>Sobrenome</th>
+            <th>Data de Aniversário</th>
+        </tr>
+
+        foreach (var pessoa in ViewBag.ProxNiversAnoQueVem)
+        {
+            <tr>
+                <td>@pessoa.Nome</td>
+                <td>@pessoa.Sobrenome</td>
+                <td>@pessoa.Aniversario</td>
+            </tr>
+        }
+    }
+</table>
+
+<p style="font-size:15px; color:darkcyan">@ViewBag.SemContatos</p>

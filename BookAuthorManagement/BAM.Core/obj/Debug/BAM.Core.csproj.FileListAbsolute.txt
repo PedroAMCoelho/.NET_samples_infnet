@@ -1,0 +1,17 @@
+C:\Users\ppedr\source\repos\BookAuthorManagement\BAM.Core\bin\Debug\BAM.Core.dll.config
+C:\Users\ppedr\source\repos\BookAuthorManagement\BAM.Core\bin\Debug\BAM.Core.dll
+C:\Users\ppedr\source\repos\BookAuthorManagement\BAM.Core\bin\Debug\BAM.Core.pdb
+C:\Users\ppedr\source\repos\BookAuthorManagement\BAM.Core\bin\Debug\EntityFramework.dll
+C:\Users\ppedr\source\repos\BookAuthorManagement\BAM.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ppedr\source\repos\BookAuthorManagement\BAM.Core\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ppedr\source\repos\BookAuthorManagement\BAM.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ppedr\source\repos\BookAuthorManagement\BAM.Core\bin\Debug\EntityFramework.xml
+C:\Users\ppedr\source\repos\BookAuthorManagement\BAM.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ppedr\source\repos\BookAuthorManagement\BAM.Core\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ppedr\source\repos\BookAuthorManagement\BAM.Core\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ppedr\source\repos\BookAuthorManagement\BAM.Core\obj\Debug\BAM.Core.csprojResolveAssemblyReference.cache
+C:\Users\ppedr\source\repos\BookAuthorManagement\BAM.Core\obj\Debug\BAM.Core.Migrations.init.resources
+C:\Users\ppedr\source\repos\BookAuthorManagement\BAM.Core\obj\Debug\BAM.Core.csproj.GenerateResource.Cache
+C:\Users\ppedr\source\repos\BookAuthorManagement\BAM.Core\obj\Debug\BAM.Core.csproj.CoreCompileInputs.cache
+C:\Users\ppedr\source\repos\BookAuthorManagement\BAM.Core\obj\Debug\BAM.Core.dll
+C:\Users\ppedr\source\repos\BookAuthorManagement\BAM.Core\obj\Debug\BAM.Core.pdb

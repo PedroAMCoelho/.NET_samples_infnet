@@ -1,0 +1,8 @@
+C:\Users\ppedr\source\repos\SocialNetwork\SocialNetwork.Data\bin\Debug\SocialNetwork.Data.dll
+C:\Users\ppedr\source\repos\SocialNetwork\SocialNetwork.Data\bin\Debug\SocialNetwork.Data.pdb
+C:\Users\ppedr\source\repos\SocialNetwork\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.csprojResolveAssemblyReference.cache
+C:\Users\ppedr\source\repos\SocialNetwork\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.csproj.CoreCompileInputs.cache
+C:\Users\ppedr\source\repos\SocialNetwork\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.dll
+C:\Users\ppedr\source\repos\SocialNetwork\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.pdb
+C:\Users\ppedr\source\repos\SocialNetwork\SocialNetwork.Data\bin\Debug\SocialNetwork.Data.dll.CodeAnalysisLog.xml
+C:\Users\ppedr\source\repos\SocialNetwork\SocialNetwork.Data\bin\Debug\SocialNetwork.Data.dll.lastcodeanalysissucceeded

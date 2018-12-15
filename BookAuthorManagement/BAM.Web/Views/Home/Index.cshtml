@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="jumbotron">
+    <h1>Agenda de Aniversários</h1>
+</div>
+
+<div class="btn-group-vertical">
+    <button style="border-color:white" type="button" class="btn">@Html.ActionLink("Add a book", "AddBook", "Book")</button> <!--(<String>, Metodo, Controller)-->
+    <button style="border-color:white" type="button" class="btn">@Html.ActionLink("List all books", "ListBooks", "Book")</button>
+    <button style="border-color:white" type="button" class="btn">@Html.ActionLink("List all authors", "AuthorsList", "Author")</button>
+    <button style="margin-top:30px" type="button" class="btn-info">@Html.ActionLink("Logout", "LogOff", "Account")</button> <!--(<String>, Metodo, Controller)-->
+</div>
+

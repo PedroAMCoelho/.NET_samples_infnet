@@ -1,0 +1,12 @@
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\Aniversariantes.Classes\obj\Debug\Aniversariantes.Classes.csprojResolveAssemblyReference.cache
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\Aniversariantes.Classes\obj\Debug\Aniversariantes.Classes.csproj.CoreCompileInputs.cache
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\Aniversariantes.Classes\bin\Debug\Aniversariantes.Classes.dll
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\Aniversariantes.Classes\bin\Debug\Aniversariantes.Classes.pdb
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\Aniversariantes.Classes\obj\Debug\Aniversariantes.Classes.dll
+C:\Users\ppedr\source\repos\TP3_Fundamentos_CSharp\Aniversariantes.Classes\obj\Debug\Aniversariantes.Classes.pdb
+C:\Users\ppedr\source\repos\Assessment_Fundamentos_CSharp\Aniversariantes.Classes\bin\Debug\Aniversariantes.Classes.dll
+C:\Users\ppedr\source\repos\Assessment_Fundamentos_CSharp\Aniversariantes.Classes\bin\Debug\Aniversariantes.Classes.pdb
+C:\Users\ppedr\source\repos\Assessment_Fundamentos_CSharp\Aniversariantes.Classes\obj\Debug\Aniversariantes.Classes.csprojResolveAssemblyReference.cache
+C:\Users\ppedr\source\repos\Assessment_Fundamentos_CSharp\Aniversariantes.Classes\obj\Debug\Aniversariantes.Classes.csproj.CoreCompileInputs.cache
+C:\Users\ppedr\source\repos\Assessment_Fundamentos_CSharp\Aniversariantes.Classes\obj\Debug\Aniversariantes.Classes.dll
+C:\Users\ppedr\source\repos\Assessment_Fundamentos_CSharp\Aniversariantes.Classes\obj\Debug\Aniversariantes.Classes.pdb

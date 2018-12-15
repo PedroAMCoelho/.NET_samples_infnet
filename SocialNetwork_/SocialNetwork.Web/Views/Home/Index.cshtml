@@ -1,0 +1,67 @@
+﻿@model IEnumerable<SocialNetwork.Web.Models.Profile.ProfileViewModel>
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="jumbotron">
+    <h2>Bem-vindo à rede social dos amantes da horticultura</h2>
+    <p>Venha interagir conosco!</p>
+    <p>Veja hortas já cadastradas na nossa base:</p>
+</div>
+
+@Html.ActionLink("Deslogar", "LogOff", "Account") <!--(<String>, Metodo, Controller)-->
+
+@Html.ActionLink("Editar meus dados", "ShowLoggedUserInfo", "Home") <!--(<String>, Metodo, Controller)-->
+
+@if (Model.Count() > 0)
+{
+    <div class="row">
+        <table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.GardenName)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.GardenDescription)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.PictureUrl)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.MainGarden)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.SubGarden)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.GardenLocation)
+                </th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.GardenName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.GardenDescription)
+                    </td>
+                    <td>
+                        <!--ARROBAHtml.DisplayFor(modelItem => item.PictureUrl)-->
+                        <img src="@Url.Content(item.PictureUrl)" alt="Foto" />
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.MainGarden)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SubGarden)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.GardenLocation)
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+}

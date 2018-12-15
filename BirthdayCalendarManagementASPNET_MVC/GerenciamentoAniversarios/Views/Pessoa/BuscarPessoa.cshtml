@@ -1,0 +1,57 @@
+﻿@model GerenciamentoAniversarios.Models.Pessoa
+@{
+    ViewBag.Title = "BuscarPessoa";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Buscar</h2>
+<p>@Html.ActionLink("Voltar", "Index", "Home")</p>
+
+<form action="BuscarPessoa" method="post" style="margin-bottom:20px">
+
+    <div class="form-group">
+        <label for="Nome">Nome:</label>
+        <input type="text" class="form-control" name="Nome" id="Nome" />
+    </div>
+    <div class="form-group">
+        <label for="Sobrenome">Sobrenome:</label>
+        <input type="text" class="form-control" name="Sobrenome" id="Sobrenome" />
+    </div>
+
+    <button type="submit" class="btn btn-default">Submit</button>
+
+</form>
+
+<h2>Resultados</h2>
+
+<table class="table">
+
+    <tr>
+
+        <th>Nome</th>
+        <th>Sobrenome</th>
+        <th>Data de Aniversário</th>
+
+
+    </tr>
+
+    @if (ViewBag.PessoasEncontradas != null)
+    {
+        foreach (var pessoa in ViewBag.PessoasEncontradas)
+        {
+
+            <tr>
+
+                <td>@pessoa.Nome</td>
+                <td>@pessoa.Sobrenome</td>
+                <td>@pessoa.Aniversario</td>
+
+
+            </tr>
+
+        }
+    }
+
+</table>
+
+<p style="font-size:30px">@ViewBag.ErrorMessage</p>

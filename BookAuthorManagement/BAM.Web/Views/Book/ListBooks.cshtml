@@ -1,0 +1,58 @@
+﻿@model IEnumerable<SocialNetwork.Web.Models.Book.AddBookViewModel>
+
+@{
+    ViewBag.Title = "ListBooks";
+}
+
+<h2>ListBooks</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Year)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ISBN)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LastName)
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Year)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ISBN)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author.LastName)
+            </td>
+
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { BookId = item.BookId }) | <!--(<String>, Metodo, Controller)-->
+                @Html.ActionLink("Details", "ShowBookDetails", new { BookId = item.BookId }) |
+                @Html.ActionLink("Delete", "Delete", new { BookId = item.BookId })
+            </td>
+        </tr>
+    }
+
+</table>
